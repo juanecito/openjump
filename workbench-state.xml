@@ -18,6 +18,10 @@
       <value class="java.lang.Integer">1009</value>
     </mapping>
     <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.network.ProxySettingsOptionsPanel-ReadTimeout</key>
+      <value class="java.lang.Integer">5000</value>
+    </mapping>
+    <mapping>
       <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - VERTICAL_KEY</key>
       <value class="java.lang.Integer">25</value>
     </mapping>
@@ -39,11 +43,15 @@
     </mapping>
     <mapping>
       <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.plugin.ViewAttributesPlugIn - ATTRIBUTES_WINDOW_SIZE_WIDTH</key>
-      <value class="java.lang.Integer">500</value>
+      <value class="java.lang.Integer">1260</value>
     </mapping>
     <mapping>
       <key class="java.lang.String">org.openjump.core.ui.SelectionStyllingOptionsPanel SELECTION_STYLE_POINT_SIZE</key>
       <value class="java.lang.Integer">5</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.datasource.LoadFileDataSourceQueryChooser - FILE CHOOSER DIRECTORY</key>
+      <value class="java.lang.String">/home/juan/Desktop</value>
     </mapping>
     <mapping>
       <key class="java.lang.String">org.saig.jump.widgets.config.ConfigTooltipPanel - LAYER_TOOLTIPS</key>
@@ -51,7 +59,11 @@
     </mapping>
     <mapping>
       <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.plugin.ViewAttributesPlugIn - ATTRIBUTES_WINDOW_SIZE_HEIGHT</key>
-      <value class="java.lang.Integer">300</value>
+      <value class="java.lang.Integer">524</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.datasource.SaveFileDataSourceQueryChooser - FILE CHOOSER DIRECTORY</key>
+      <value class="java.lang.String">/home/juan/Desktop</value>
     </mapping>
     <mapping>
       <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - HORIZONTAL_KEY</key>
@@ -66,12 +78,20 @@
       <value class="java.lang.Boolean">false</value>
     </mapping>
     <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.plugin.SaveProjectAsPlugIn - FILE CHOOSER DIRECTORY</key>
+      <value class="java.lang.String">/home/juan/Desktop</value>
+    </mapping>
+    <mapping>
       <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.snap.SnapToGridPolicy - ENABLED</key>
       <value class="java.lang.Boolean">false</value>
     </mapping>
     <mapping>
       <key class="java.lang.String">org.saig.jump.widgets.config.ConfigTooltipPanel - SINGLE_EDITABLE_LAYER</key>
       <value class="java.lang.Boolean">true</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.network.ProxySettingsOptionsPanel-ConnectionTimeout</key>
+      <value class="java.lang.Integer">20000</value>
     </mapping>
     <mapping>
       <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - MAXIMIZED_KEY</key>
@@ -87,11 +107,15 @@
     </mapping>
     <mapping>
       <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.plugin.ViewAttributesPlugIn - ATTRIBUTES_WINDOW_POSITION_Y</key>
-      <value class="java.lang.Integer">306</value>
+      <value class="java.lang.Integer">227</value>
     </mapping>
     <mapping>
       <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.plugin.ViewAttributesPlugIn - ATTRIBUTES_WINDOW_POSITION_X</key>
-      <value class="java.lang.Integer">782</value>
+      <value class="java.lang.Integer">414</value>
+    </mapping>
+    <mapping>
+      <key class="java.lang.String">WFS_URL_LIST</key>
+      <value class="java.lang.String">http://ows.terrestris.de/geoserver/osm/wfs,http://demo.opengeo.org/geoserver/wfs</value>
     </mapping>
     <mapping>
       <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - STATUSPANEL_DIVIDER_LOCATION_2</key>
@@ -114,8 +138,14 @@
       <value class="java.util.LinkedHashSet" />
     </mapping>
     <mapping>
+      <key class="java.lang.String">com.vividsolutions.jump.workbench.datasource.SaveDatasetAsPlugIn - LAST FORMAT</key>
+      <value class="java.lang.String">ESRI Shapefile</value>
+    </mapping>
+    <mapping>
       <key class="java.lang.String">org.openjump.core.ui.plugin.file.OpenRecentPlugIn.FILES</key>
-      <value class="java.util.LinkedHashSet" />
+      <value class="java.util.LinkedHashSet">
+        <item class="java.lang.String">/home/juan/Desktop/wfs_osm-country-borders.shp</item>
+      </value>
     </mapping>
     <mapping>
       <key class="java.lang.String">com.vividsolutions.jump.workbench.ui.WorkbenchFrame - STATUSPANEL_DIVIDER_LOCATION_1</key>
