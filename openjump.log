@@ -1,0 +1,624 @@
+[ERROR] 2019-12-17_16:43:35.387 Unresolved compilation problem: 
+	The constructor WorkbenchPropertiesFile(List<File>, ErrorHandler) refers to the missing type JDOMException
+
+java.lang.Error: Unresolved compilation problem: 
+	The constructor WorkbenchPropertiesFile(List<File>, ErrorHandler) refers to the missing type JDOMException
+
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.<init>(JUMPWorkbench.java:266)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.main(JUMPWorkbench.java:433)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.main(JUMPWorkbench.java:386)
+[ERROR] 2019-12-17_16:50:01.617 Unresolved compilation problem: 
+	The constructor WorkbenchPropertiesFile(List<File>, ErrorHandler) refers to the missing type JDOMException
+
+java.lang.Error: Unresolved compilation problem: 
+	The constructor WorkbenchPropertiesFile(List<File>, ErrorHandler) refers to the missing type JDOMException
+
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.<init>(JUMPWorkbench.java:266)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.main(JUMPWorkbench.java:433)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.main(JUMPWorkbench.java:386)
+[ERROR] 2019-12-17_16:53:58.704 Unresolved compilation problem: 
+	The constructor WorkbenchPropertiesFile(List<File>, ErrorHandler) refers to the missing type JDOMException
+
+java.lang.Error: Unresolved compilation problem: 
+	The constructor WorkbenchPropertiesFile(List<File>, ErrorHandler) refers to the missing type JDOMException
+
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.<init>(JUMPWorkbench.java:266)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.main(JUMPWorkbench.java:433)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.main(JUMPWorkbench.java:386)
+[WARN] 2019-12-17_16:57:17.032 Extensions directory does not exist: lib/ext where homedir = [/home/juan/my_git/openjump]
+[INFO] 2019-12-17_16:57:17.071 Restore state from /home/juan/my_git/openjump/./workbench-state.xml
+[ERROR] 2019-12-17_16:57:17.072 ./workbench-state.xml (No existe el fichero o el directorio)
+java.io.FileNotFoundException: ./workbench-state.xml (No existe el fichero o el directorio)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at com.vividsolutions.jump.workbench.ui.plugin.PersistentBlackboardPlugIn.load(PersistentBlackboardPlugIn.java:155)
+	at com.vividsolutions.jump.workbench.ui.plugin.PersistentBlackboardPlugIn.restoreState(PersistentBlackboardPlugIn.java:76)
+	at com.vividsolutions.jump.workbench.ui.plugin.PersistentBlackboardPlugIn.initialize(PersistentBlackboardPlugIn.java:63)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.main(JUMPWorkbench.java:438)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.main(JUMPWorkbench.java:386)
+[INFO] 2019-12-17_16:57:17.464 Loading all OJ extensions took 0,00s
+[ERROR] 2019-12-17_16:57:47.402 Unresolved compilation problems: 
+	The import org.netbeans cannot be resolved
+	The import org.netbeans cannot be resolved
+	The import org.netbeans cannot be resolved
+	Outline cannot be resolved to a type
+	OutlineModel cannot be resolved to a type
+	The method getDatasetOutline() from the type AddDatastoreLayerPanel refers to the missing type Outline
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	OutlineModel cannot be resolved to a type
+	DefaultOutlineModel cannot be resolved
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	OutlineModel cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	OutlineModel cannot be resolved to a type
+	DefaultOutlineModel cannot be resolved
+	Outline cannot be resolved to a type
+	OutlineModel cannot be resolved to a type
+	Outline cannot be resolved to a type
+	The method getDatasetOutline() from the type AddDatastoreLayerPanel refers to the missing type Outline
+
+java.lang.Error: Unresolved compilation problems: 
+	The import org.netbeans cannot be resolved
+	The import org.netbeans cannot be resolved
+	The import org.netbeans cannot be resolved
+	Outline cannot be resolved to a type
+	OutlineModel cannot be resolved to a type
+	The method getDatasetOutline() from the type AddDatastoreLayerPanel refers to the missing type Outline
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	OutlineModel cannot be resolved to a type
+	DefaultOutlineModel cannot be resolved
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	OutlineModel cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	Outline cannot be resolved to a type
+	OutlineModel cannot be resolved to a type
+	DefaultOutlineModel cannot be resolved
+	Outline cannot be resolved to a type
+	OutlineModel cannot be resolved to a type
+	Outline cannot be resolved to a type
+	The method getDatasetOutline() from the type AddDatastoreLayerPanel refers to the missing type Outline
+
+	at com.vividsolutions.jump.workbench.ui.plugin.datastore.AddDatastoreLayerPanel.<init>(AddDatastoreLayerPanel.java:43)
+	at org.openjump.core.ui.plugin.datastore.AddDataStoreLayerWizardPanel.<init>(AddDataStoreLayerWizardPanel.java:27)
+	at org.openjump.core.ui.plugin.datastore.AddDataStoreLayerWizard.<init>(AddDataStoreLayerWizard.java:48)
+	at org.openjump.OpenJumpConfiguration.postExtensionInitialization(OpenJumpConfiguration.java:135)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.main(JUMPWorkbench.java:462)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.main(JUMPWorkbench.java:386)
+[WARN] 2019-12-18_11:12:41.100 Extensions directory does not exist: lib/ext where homedir = [/home/juan/my_git/openjump]
+[INFO] 2019-12-18_11:12:41.140 Restore state from /home/juan/my_git/openjump/./workbench-state.xml
+[ERROR] 2019-12-18_11:12:41.140 ./workbench-state.xml (No existe el fichero o el directorio)
+java.io.FileNotFoundException: ./workbench-state.xml (No existe el fichero o el directorio)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at com.vividsolutions.jump.workbench.ui.plugin.PersistentBlackboardPlugIn.load(PersistentBlackboardPlugIn.java:155)
+	at com.vividsolutions.jump.workbench.ui.plugin.PersistentBlackboardPlugIn.restoreState(PersistentBlackboardPlugIn.java:76)
+	at com.vividsolutions.jump.workbench.ui.plugin.PersistentBlackboardPlugIn.initialize(PersistentBlackboardPlugIn.java:63)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.main(JUMPWorkbench.java:438)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.main(JUMPWorkbench.java:386)
+[INFO] 2019-12-18_11:12:41.509 Loading all OJ extensions took 0,00s
+[INFO] 2019-12-18_11:12:41.558 ECW/JP2 loader class com.ermapper.ecw.JNCSRenderer no instalado.
+[INFO] 2019-12-18_11:12:41.558 ECW/JP2 SDK loader will be unavailable.
+[INFO] 2019-12-18_11:12:41.572 mrsidgeodecode no instalado. - mrsidgeodecode not in path
+[INFO] 2019-12-18_11:12:41.721 OJ start took 1,00s alltogether.
+[INFO] 2019-12-18_11:12:50.636 Ejecutando Nuevo Proyecto
+[INFO] 2019-12-18_11:12:50.807 Activado Seleccionar elementos
+[INFO] 2019-12-18_11:12:50.808 Activado Seleccionar elementos
+[INFO] 2019-12-18_11:12:50.808 Activado Seleccionar elementos
+[INFO] 2019-12-18_11:12:50.809 Memoria utilizada:74 MB
+[INFO] 2019-12-18_11:13:11.076 Ejecutando Ventana de salida
+[INFO] 2019-12-18_11:13:11.081 Memoria utilizada:117 MB
+[INFO] 2019-12-18_11:13:16.082 Activado Seleccionar elementos
+[INFO] 2019-12-18_11:14:29.932 Activado Seleccionar elementos
+[INFO] 2019-12-18_11:14:32.394 Save state to ./workbench-state.xml
+[WARN] 2019-12-18_11:18:37.222 Extensions directory does not exist: lib/ext where homedir = [/home/juan/my_git/openjump]
+[INFO] 2019-12-18_11:18:37.416 Restore state from /home/juan/my_git/openjump/./workbench-state.xml
+[INFO] 2019-12-18_11:18:38.738 Loading all OJ extensions took 0,00s
+[INFO] 2019-12-18_11:18:39.041 ECW/JP2 loader class com.ermapper.ecw.JNCSRenderer no instalado.
+[INFO] 2019-12-18_11:18:39.048 ECW/JP2 SDK loader will be unavailable.
+[INFO] 2019-12-18_11:18:39.137 mrsidgeodecode no instalado. - mrsidgeodecode not in path
+[INFO] 2019-12-18_11:18:40.092 OJ start took 4,45s alltogether.
+[INFO] 2019-12-18_11:18:43.817 Ejecutando Nuevo Proyecto
+[INFO] 2019-12-18_11:18:44.405 Activado Seleccionar elementos
+[INFO] 2019-12-18_11:18:44.406 Activado Seleccionar elementos
+[INFO] 2019-12-18_11:18:44.406 Activado Seleccionar elementos
+[INFO] 2019-12-18_11:18:44.407 Memoria utilizada:72 MB
+[INFO] 2019-12-18_11:18:49.889 Gesture finalizado:: Seleccionar elementos
+[INFO] 2019-12-18_11:18:51.513 Gesture finalizado:: Seleccionar elementos
+[INFO] 2019-12-18_11:19:35.587 Activado Seleccionar elementos
+[INFO] 2019-12-18_11:19:38.351 Save state to ./workbench-state.xml
+[WARN] 2019-12-18_11:21:51.974 Extensions directory does not exist: lib/ext where homedir = [/home/juan/my_git/openjump]
+[INFO] 2019-12-18_11:21:52.108 Restore state from /home/juan/my_git/openjump/./workbench-state.xml
+[INFO] 2019-12-18_11:21:53.049 Loading all OJ extensions took 0,00s
+[INFO] 2019-12-18_11:21:53.201 ECW/JP2 loader class com.ermapper.ecw.JNCSRenderer no instalado.
+[INFO] 2019-12-18_11:21:53.201 ECW/JP2 SDK loader will be unavailable.
+[INFO] 2019-12-18_11:21:53.253 mrsidgeodecode no instalado. - mrsidgeodecode not in path
+[INFO] 2019-12-18_11:21:53.618 OJ start took 3,37s alltogether.
+[WARN] 2019-12-18_11:27:31.080 Extensions directory does not exist: lib/ext where homedir = [/home/juan/my_git/openjump]
+[INFO] 2019-12-18_11:27:31.122 Restore state from /home/juan/my_git/openjump/./workbench-state.xml
+[INFO] 2019-12-18_11:27:31.518 Loading all OJ extensions took 0,00s
+[INFO] 2019-12-18_11:27:31.570 ECW/JP2 loader class com.ermapper.ecw.JNCSRenderer no instalado.
+[INFO] 2019-12-18_11:27:31.570 ECW/JP2 SDK loader will be unavailable.
+[INFO] 2019-12-18_11:27:31.584 mrsidgeodecode no instalado. - mrsidgeodecode not in path
+[INFO] 2019-12-18_11:27:31.733 OJ start took 1,02s alltogether.
+[WARN] 2019-12-18_11:30:39.057 Extensions directory does not exist: lib/ext where homedir = [/home/juan/my_git/openjump]
+[INFO] 2019-12-18_11:30:39.094 Restore state from /home/juan/my_git/openjump/./workbench-state.xml
+[INFO] 2019-12-18_11:30:39.490 Loading all OJ extensions took 0,00s
+[INFO] 2019-12-18_11:30:39.540 ECW/JP2 loader class com.ermapper.ecw.JNCSRenderer no instalado.
+[INFO] 2019-12-18_11:30:39.540 ECW/JP2 SDK loader will be unavailable.
+[INFO] 2019-12-18_11:30:39.553 mrsidgeodecode no instalado. - mrsidgeodecode not in path
+[INFO] 2019-12-18_11:30:39.694 OJ start took 1,01s alltogether.
+[INFO] 2019-12-18_11:31:02.283 Ejecutando Nuevo Proyecto
+[INFO] 2019-12-18_11:31:02.457 Activado Seleccionar elementos
+[INFO] 2019-12-18_11:31:02.458 Activado Seleccionar elementos
+[INFO] 2019-12-18_11:31:02.458 Activado Seleccionar elementos
+[INFO] 2019-12-18_11:31:02.459 Memoria utilizada:74 MB
+[INFO] 2019-12-18_11:31:11.875 Activado Dibujar Marco rectangular
+[INFO] 2019-12-18_11:31:11.876 Activado Dibujar Marco poligonal
+[INFO] 2019-12-18_11:31:11.886 Activado Dibujar Marco rectangular
+[INFO] 2019-12-18_11:31:11.886 Activado Dibujar Marco poligonal
+[INFO] 2019-12-18_11:31:14.155 Gesture finalizado:: Dibujar Marco rectangular
+[INFO] 2019-12-18_11:31:19.411 Activado Seleccionar elementos
+[INFO] 2019-12-18_11:31:20.083 Gesture finalizado:: Seleccionar elementos
+[INFO] 2019-12-18_11:31:20.586 Gesture finalizado:: Seleccionar elementos
+[INFO] 2019-12-18_11:31:23.443 Ejecutando Ventana de salida
+[INFO] 2019-12-18_11:31:23.448 Memoria utilizada:107 MB
+[INFO] 2019-12-18_11:31:27.233 Activado Seleccionar elementos
+[INFO] 2019-12-18_11:31:27.643 Gesture finalizado:: Seleccionar elementos
+[INFO] 2019-12-18_11:31:30.891 Ejecutando Zoom de extensión máxima
+[INFO] 2019-12-18_11:31:30.892 Memoria utilizada:136 MB
+[INFO] 2019-12-18_11:31:51.146 Ejecutando Vista / Edición de atributos
+[INFO] 2019-12-18_11:31:51.359 Memoria utilizada:82 MB
+[INFO] 2019-12-18_11:31:56.921 Activado Seleccionar elementos
+[INFO] 2019-12-18_11:31:57.378 Gesture finalizado:: Seleccionar elementos
+[INFO] 2019-12-18_11:31:59.882 Gesture finalizado:: Seleccionar elementos
+[INFO] 2019-12-18_11:32:01.610 Ejecutando Nuevo Proyecto
+[INFO] 2019-12-18_11:32:01.689 Activado Seleccionar elementos
+[INFO] 2019-12-18_11:32:01.690 Activado Seleccionar elementos
+[INFO] 2019-12-18_11:32:01.690 Memoria utilizada:87 MB
+[INFO] 2019-12-18_11:32:04.796 Activado Seleccionar elementos
+[INFO] 2019-12-18_11:32:04.804 Activado Seleccionar elementos
+[INFO] 2019-12-18_11:32:06.768 Activado Seleccionar elementos
+[INFO] 2019-12-18_11:32:11.349 Save state to ./workbench-state.xml
+[WARN] 2019-12-18_12:02:49.829 Extensions directory does not exist: lib/ext where homedir = [/home/juan/my_git/openjump]
+[INFO] 2019-12-18_12:02:49.867 Restore state from /home/juan/my_git/openjump/./workbench-state.xml
+[INFO] 2019-12-18_12:02:50.259 Loading all OJ extensions took 0,00s
+[INFO] 2019-12-18_12:02:50.312 ECW/JP2 loader class com.ermapper.ecw.JNCSRenderer no instalado.
+[INFO] 2019-12-18_12:02:50.313 ECW/JP2 SDK loader will be unavailable.
+[INFO] 2019-12-18_12:02:50.326 mrsidgeodecode no instalado. - mrsidgeodecode not in path
+[INFO] 2019-12-18_12:02:50.482 OJ start took 1,05s alltogether.
+[INFO] 2019-12-18_12:02:56.818 Ejecutando Nuevo Proyecto
+[INFO] 2019-12-18_12:02:56.977 Activado Seleccionar elementos
+[INFO] 2019-12-18_12:02:56.978 Activado Seleccionar elementos
+[INFO] 2019-12-18_12:02:56.978 Activado Seleccionar elementos
+[INFO] 2019-12-18_12:02:56.979 Memoria utilizada:72 MB
+[INFO] 2019-12-18_12:03:21.164 Activado Seleccionar elementos
+[INFO] 2019-12-18_12:03:24.123 Ejecutando Salir
+[ERROR] 2019-12-18_12:03:25.201 Logger: either message or throwable must be given. com.vividsolutions.jump.workbench.ui.WorkbenchFrame$DefaultApplicationExitHandler.exitApplication(WorkbenchFrame.java:1980)
+java.lang.IllegalArgumentException: Logger: either message or throwable must be given. com.vividsolutions.jump.workbench.ui.WorkbenchFrame$DefaultApplicationExitHandler.exitApplication(WorkbenchFrame.java:1980)
+	at com.vividsolutions.jump.workbench.Logger.log(Logger.java:154)
+	at com.vividsolutions.jump.workbench.Logger.warn(Logger.java:101)
+	at com.vividsolutions.jump.workbench.ui.WorkbenchFrame$DefaultApplicationExitHandler.exitApplication(WorkbenchFrame.java:1980)
+	at com.vividsolutions.jump.workbench.ui.WorkbenchFrame.closeApplication(WorkbenchFrame.java:1408)
+	at com.vividsolutions.jump.workbench.ui.WorkbenchFrame.access$1(WorkbenchFrame.java:1395)
+	at com.vividsolutions.jump.workbench.ui.WorkbenchFrame$ExitPlugin.execute(WorkbenchFrame.java:224)
+	at com.vividsolutions.jump.workbench.plugin.AbstractPlugIn$1.actionPerformed(AbstractPlugIn.java:344)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.AbstractButton.doClick(AbstractButton.java:376)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(BasicMenuItemUI.java:842)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(BasicMenuItemUI.java:886)
+	at java.awt.Component.processMouseEvent(Component.java:6539)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6304)
+	at java.awt.Container.processEvent(Container.java:2239)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2297)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4904)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4535)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4476)
+	at java.awt.Container.dispatchEventImpl(Container.java:2283)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:760)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:84)
+	at java.awt.EventQueue$4.run(EventQueue.java:733)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:730)
+	at org.GNOME.Accessibility.AtkWrapper$5.dispatchEvent(AtkWrapper.java:700)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[INFO] 2019-12-18_12:03:25.203 Memoria utilizada:22 MB
+[WARN] 2019-12-18_12:08:55.251 Extensions directory does not exist: lib/ext where homedir = [/home/juan/my_git/openjump]
+[INFO] 2019-12-18_12:08:55.297 Restore state from /home/juan/my_git/openjump/./workbench-state.xml
+[INFO] 2019-12-18_12:08:55.693 Loading all OJ extensions took 0,00s
+[INFO] 2019-12-18_12:08:55.743 ECW/JP2 loader class com.ermapper.ecw.JNCSRenderer no instalado.
+[INFO] 2019-12-18_12:08:55.743 ECW/JP2 SDK loader will be unavailable.
+[INFO] 2019-12-18_12:08:55.756 mrsidgeodecode no instalado. - mrsidgeodecode not in path
+[INFO] 2019-12-18_12:08:55.912 OJ start took 1,04s alltogether.
+[WARN] 2019-12-18_12:12:38.606 Extensions directory does not exist: lib/ext where homedir = [/home/juan/my_git/openjump]
+[INFO] 2019-12-18_12:12:38.651 Restore state from /home/juan/my_git/openjump/./workbench-state.xml
+[INFO] 2019-12-18_12:12:39.051 Loading all OJ extensions took 0,00s
+[INFO] 2019-12-18_12:12:39.099 ECW/JP2 loader class com.ermapper.ecw.JNCSRenderer no instalado.
+[INFO] 2019-12-18_12:12:39.100 ECW/JP2 SDK loader will be unavailable.
+[INFO] 2019-12-18_12:12:39.112 mrsidgeodecode no instalado. - mrsidgeodecode not in path
+[INFO] 2019-12-18_12:12:39.299 OJ start took 1,08s alltogether.
+[WARN] 2019-12-18_12:15:02.015 Extensions directory does not exist: lib/ext where homedir = [/home/juan/my_git/openjump]
+[INFO] 2019-12-18_12:15:02.055 Restore state from /home/juan/my_git/openjump/./workbench-state.xml
+[INFO] 2019-12-18_12:15:02.442 Loading all OJ extensions took 0,00s
+[INFO] 2019-12-18_12:15:02.496 ECW/JP2 loader class com.ermapper.ecw.JNCSRenderer no instalado.
+[INFO] 2019-12-18_12:15:02.497 ECW/JP2 SDK loader will be unavailable.
+[INFO] 2019-12-18_12:15:02.510 mrsidgeodecode no instalado. - mrsidgeodecode not in path
+[INFO] 2019-12-18_12:15:02.693 OJ start took 1,05s alltogether.
+[WARN] 2019-12-18_12:16:43.821 Extensions directory does not exist: lib/ext where homedir = [/home/juan/my_git/openjump]
+[INFO] 2019-12-18_12:16:43.864 Restore state from /home/juan/my_git/openjump/./workbench-state.xml
+[INFO] 2019-12-18_12:16:44.259 Loading all OJ extensions took 0,00s
+[INFO] 2019-12-18_12:16:44.310 ECW/JP2 loader class com.ermapper.ecw.JNCSRenderer no instalado.
+[INFO] 2019-12-18_12:16:44.310 ECW/JP2 SDK loader will be unavailable.
+[INFO] 2019-12-18_12:16:44.323 mrsidgeodecode no instalado. - mrsidgeodecode not in path
+[INFO] 2019-12-18_12:16:44.475 OJ start took 1,03s alltogether.
+[WARN] 2019-12-18_12:21:35.483 Extensions directory does not exist: lib/ext where homedir = [/home/juan/my_git/openjump]
+[INFO] 2019-12-18_12:21:35.520 Restore state from /home/juan/my_git/openjump/./workbench-state.xml
+[INFO] 2019-12-18_12:21:35.911 Loading all OJ extensions took 0,00s
+[INFO] 2019-12-18_12:21:35.961 ECW/JP2 loader class com.ermapper.ecw.JNCSRenderer no instalado.
+[INFO] 2019-12-18_12:21:35.961 ECW/JP2 SDK loader will be unavailable.
+[INFO] 2019-12-18_12:21:35.974 mrsidgeodecode no instalado. - mrsidgeodecode not in path
+[INFO] 2019-12-18_12:21:36.123 OJ start took 1,02s alltogether.
+[ERROR] 2019-12-18_12:21:48.824 Logger: either message or throwable must be given. com.vividsolutions.jump.workbench.ui.WorkbenchFrame$DefaultApplicationExitHandler.exitApplication(WorkbenchFrame.java:1980)
+java.lang.IllegalArgumentException: Logger: either message or throwable must be given. com.vividsolutions.jump.workbench.ui.WorkbenchFrame$DefaultApplicationExitHandler.exitApplication(WorkbenchFrame.java:1980)
+	at com.vividsolutions.jump.workbench.Logger.log(Logger.java:154)
+	at com.vividsolutions.jump.workbench.Logger.warn(Logger.java:101)
+	at com.vividsolutions.jump.workbench.ui.WorkbenchFrame$DefaultApplicationExitHandler.exitApplication(WorkbenchFrame.java:1980)
+	at com.vividsolutions.jump.workbench.ui.WorkbenchFrame.closeApplication(WorkbenchFrame.java:1408)
+	at com.vividsolutions.jump.workbench.ui.WorkbenchFrame.this_windowClosing(WorkbenchFrame.java:1350)
+	at com.vividsolutions.jump.workbench.ui.WorkbenchFrame$26.windowClosing(WorkbenchFrame.java:1493)
+	at java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:349)
+	at java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:349)
+	at java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:349)
+	at java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:349)
+	at java.awt.Window.processWindowEvent(Window.java:2054)
+	at javax.swing.JFrame.processWindowEvent(JFrame.java:305)
+	at java.awt.Window.processEvent(Window.java:2013)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2297)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:760)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:84)
+	at java.awt.EventQueue$4.run(EventQueue.java:733)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:730)
+	at org.GNOME.Accessibility.AtkWrapper$5.dispatchEvent(AtkWrapper.java:700)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[ERROR] 2019-12-18_14:22:45.508 Logger: either message or throwable must be given. com.vividsolutions.jump.workbench.ui.WorkbenchFrame$DefaultApplicationExitHandler.exitApplication(WorkbenchFrame.java:1980)
+java.lang.IllegalArgumentException: Logger: either message or throwable must be given. com.vividsolutions.jump.workbench.ui.WorkbenchFrame$DefaultApplicationExitHandler.exitApplication(WorkbenchFrame.java:1980)
+	at com.vividsolutions.jump.workbench.Logger.log(Logger.java:154)
+	at com.vividsolutions.jump.workbench.Logger.warn(Logger.java:101)
+	at com.vividsolutions.jump.workbench.ui.WorkbenchFrame$DefaultApplicationExitHandler.exitApplication(WorkbenchFrame.java:1980)
+	at com.vividsolutions.jump.workbench.ui.WorkbenchFrame.closeApplication(WorkbenchFrame.java:1408)
+	at com.vividsolutions.jump.workbench.ui.WorkbenchFrame.this_windowClosing(WorkbenchFrame.java:1350)
+	at com.vividsolutions.jump.workbench.ui.WorkbenchFrame$26.windowClosing(WorkbenchFrame.java:1493)
+	at java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:349)
+	at java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:349)
+	at java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:349)
+	at java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:349)
+	at java.awt.Window.processWindowEvent(Window.java:2054)
+	at javax.swing.JFrame.processWindowEvent(JFrame.java:305)
+	at java.awt.Window.processEvent(Window.java:2013)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2297)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:760)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:84)
+	at java.awt.EventQueue$4.run(EventQueue.java:733)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:730)
+	at org.GNOME.Accessibility.AtkWrapper$5.dispatchEvent(AtkWrapper.java:700)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[ERROR] 2019-12-18_14:22:49.345 Logger: either message or throwable must be given. com.vividsolutions.jump.workbench.ui.WorkbenchFrame$DefaultApplicationExitHandler.exitApplication(WorkbenchFrame.java:1980)
+java.lang.IllegalArgumentException: Logger: either message or throwable must be given. com.vividsolutions.jump.workbench.ui.WorkbenchFrame$DefaultApplicationExitHandler.exitApplication(WorkbenchFrame.java:1980)
+	at com.vividsolutions.jump.workbench.Logger.log(Logger.java:154)
+	at com.vividsolutions.jump.workbench.Logger.warn(Logger.java:101)
+	at com.vividsolutions.jump.workbench.ui.WorkbenchFrame$DefaultApplicationExitHandler.exitApplication(WorkbenchFrame.java:1980)
+	at com.vividsolutions.jump.workbench.ui.WorkbenchFrame.closeApplication(WorkbenchFrame.java:1408)
+	at com.vividsolutions.jump.workbench.ui.WorkbenchFrame.this_windowClosing(WorkbenchFrame.java:1350)
+	at com.vividsolutions.jump.workbench.ui.WorkbenchFrame$26.windowClosing(WorkbenchFrame.java:1493)
+	at java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:349)
+	at java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:349)
+	at java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:349)
+	at java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:349)
+	at java.awt.Window.processWindowEvent(Window.java:2054)
+	at javax.swing.JFrame.processWindowEvent(JFrame.java:305)
+	at java.awt.Window.processEvent(Window.java:2013)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2297)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:760)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:84)
+	at java.awt.EventQueue$4.run(EventQueue.java:733)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:730)
+	at org.GNOME.Accessibility.AtkWrapper$5.dispatchEvent(AtkWrapper.java:700)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[ERROR] 2019-12-18_14:35:27.925 Wrong classloader. Make sure to run JRE with property -Djava.system.class.loader=com.vividsolutions.jump.workbench.plugin.PlugInClassLoader set!
+com.vividsolutions.jump.JUMPException: Wrong classloader. Make sure to run JRE with property -Djava.system.class.loader=com.vividsolutions.jump.workbench.plugin.PlugInClassLoader set!
+	at com.vividsolutions.jump.workbench.plugin.PlugInManager.<init>(PlugInManager.java:144)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.<init>(JUMPWorkbench.java:310)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.main(JUMPWorkbench.java:433)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.main(JUMPWorkbench.java:386)
+Caused by: java.lang.ClassCastException: sun.misc.Launcher$AppClassLoader cannot be cast to com.vividsolutions.jump.workbench.plugin.PlugInClassLoader
+	at com.vividsolutions.jump.workbench.plugin.PlugInManager.<init>(PlugInManager.java:142)
+	... 3 more
+[ERROR] 2019-12-18_14:35:58.714 Wrong classloader. Make sure to run JRE with property -Djava.system.class.loader=com.vividsolutions.jump.workbench.plugin.PlugInClassLoader set!
+com.vividsolutions.jump.JUMPException: Wrong classloader. Make sure to run JRE with property -Djava.system.class.loader=com.vividsolutions.jump.workbench.plugin.PlugInClassLoader set!
+	at com.vividsolutions.jump.workbench.plugin.PlugInManager.<init>(PlugInManager.java:144)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.<init>(JUMPWorkbench.java:310)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.main(JUMPWorkbench.java:433)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.main(JUMPWorkbench.java:386)
+Caused by: java.lang.ClassCastException: sun.misc.Launcher$AppClassLoader cannot be cast to com.vividsolutions.jump.workbench.plugin.PlugInClassLoader
+	at com.vividsolutions.jump.workbench.plugin.PlugInManager.<init>(PlugInManager.java:142)
+	... 3 more
+[ERROR] 2019-12-18_14:40:11.869 Wrong classloader. Make sure to run JRE with property -Djava.system.class.loader=com.vividsolutions.jump.workbench.plugin.PlugInClassLoader set!
+com.vividsolutions.jump.JUMPException: Wrong classloader. Make sure to run JRE with property -Djava.system.class.loader=com.vividsolutions.jump.workbench.plugin.PlugInClassLoader set!
+	at com.vividsolutions.jump.workbench.plugin.PlugInManager.<init>(PlugInManager.java:144)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.<init>(JUMPWorkbench.java:310)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.main(JUMPWorkbench.java:433)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.main(JUMPWorkbench.java:386)
+Caused by: java.lang.ClassCastException: sun.misc.Launcher$AppClassLoader cannot be cast to com.vividsolutions.jump.workbench.plugin.PlugInClassLoader
+	at com.vividsolutions.jump.workbench.plugin.PlugInManager.<init>(PlugInManager.java:142)
+	... 3 more
+[ERROR] 2019-12-18_14:59:36.415 Wrong classloader. Make sure to run JRE with property -Djava.system.class.loader=com.vividsolutions.jump.workbench.plugin.PlugInClassLoader set!
+com.vividsolutions.jump.JUMPException: Wrong classloader. Make sure to run JRE with property -Djava.system.class.loader=com.vividsolutions.jump.workbench.plugin.PlugInClassLoader set!
+	at com.vividsolutions.jump.workbench.plugin.PlugInManager.<init>(PlugInManager.java:144)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.<init>(JUMPWorkbench.java:310)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.main(JUMPWorkbench.java:433)
+	at com.vividsolutions.jump.workbench.JUMPWorkbench.main(JUMPWorkbench.java:386)
+Caused by: java.lang.ClassCastException: sun.misc.Launcher$AppClassLoader cannot be cast to com.vividsolutions.jump.workbench.plugin.PlugInClassLoader
+	at com.vividsolutions.jump.workbench.plugin.PlugInManager.<init>(PlugInManager.java:142)
+	... 3 more
+[INFO] 2019-12-18_14:59:56.765 Restore state from /home/juan/my_git/openjump/./workbench-state.xml
+[INFO] 2019-12-18_14:59:57.164 Scanning lib/ext/CadTools-0.7.jar took 0,01s
+[INFO] 2019-12-18_14:59:57.166 Scanning lib/ext/ColorChooser-1.3.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.167 Scanning lib/ext/ConcaveHull-0.2.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.169 Scanning lib/ext/JumpChart-1.00.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.170 Scanning lib/ext/JumpFillPattern-0.3.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.172 Scanning lib/ext/JumpPrinter-1.88.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.174 Scanning lib/ext/MeasureToolbox_12.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.175 Scanning lib/ext/OnlineDoc-0.1.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.177 Scanning lib/ext/OpenKLEM-20190224.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.181 Scanning lib/ext/OpenKLEMOJ-20190224.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.181 Scanning lib/ext/PirolCsv.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.182 Scanning lib/ext/SetAttributes-0.7.1.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.183 Scanning lib/ext/SkyPrinterPlugIn-1.0.1.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.183 Scanning lib/ext/TableLayout-bin-jdk1.5-2007-04-21.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.184 Scanning lib/ext/VertexSymbols-0.19.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.185 Scanning lib/ext/ViewManager-0.3.4.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.186 Scanning lib/ext/aggregation-0.2.10.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.187 Scanning lib/ext/bsheditor4jump-0.2.4.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.190 Scanning lib/ext/csv-driver-1.0.2.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.191 Scanning lib/ext/driver-dxf-0.9.0.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.192 Scanning lib/ext/graph-toolbox-0.6.1.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.194 Scanning lib/ext/itext-2.1.7.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.196 Scanning lib/ext/jumpdbquery.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.204 Scanning lib/ext/kml-driver-0.2.5.jar took 0,01s
+[INFO] 2019-12-18_14:59:57.206 Scanning lib/ext/matching-0.8.1.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.207 Scanning lib/ext/oj_osm_reader_v1-0-4.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.209 Scanning lib/ext/ojmapcoloring-0.5.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.210 Scanning lib/ext/ojsextante_binding_apr2018c.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.211 Scanning lib/ext/pbaseClasses.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.213 Scanning lib/ext/topology-0.9.3.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.213 Scanning lib/ext/utils-0.1-20111127.jar took 0,00s
+[INFO] 2019-12-18_14:59:57.222 Scanning lib/ext/xbean-2.2.0.jar took 0,01s
+[INFO] 2019-12-18_14:59:57.222 Finding all OJ extensions took 0,07s
+[INFO] 2019-12-18_14:59:57.258 Loading Config Cad Tools (Giuseppe Aruta - a collection of tools adapted from Kosmo 3.0, SkyJUMP and new tools) 0.4 (2017-11-10) took 0,04s
+[INFO] 2019-12-18_14:59:57.268 Loading Config Feature Color Chooser PlugIn (Giuseppe Aruta - adapted from SkyJUMP sourceforge.net/projects/skyjump/) 1.2 (2018-12-27) took 0,01s
+[INFO] 2019-12-18_14:59:57.277 Loading Config Concave Hull Extension 0.2 (2014-11-25) took 0,01s
+[INFO] 2019-12-18_14:59:57.285 Loading Config Jump Chart (com.cadplan.jump)  took 0,01s
+[INFO] 2019-12-18_14:59:57.355 Loading Config Fill Pattern (com.cadplan.jump)  took 0,07s
+[WARN] 2019-12-18_14:59:57.498 No translation for key 'com.cadplan.jump.PrinterPlugIn' in bundle 'language/jump'.
+[WARN] 2019-12-18_14:59:57.498 Can't find resource for bundle java.util.PropertyResourceBundle, key com.cadplan.jump.PrinterPlugIn no default value, the resource key is used: PrinterPlugIn
+[INFO] 2019-12-18_14:59:57.499 Loading Config Printer (com.cadplan.jump) 1.88 (2018-01-28) took 0,14s
+[INFO] 2019-12-18_14:59:57.516 Loading Config Measure Extension for OpenJUMP(Giuseppe Aruta - http://sourceforge.net/projects/opensit/ - giuseppe_aruta@yahoo.it) 1.0 (2015-01-09) took 0,02s
+[INFO] 2019-12-18_14:59:57.532 Loading Config Open Help from web (Giuseppe Aruta - adapted from of Kosmo SAIG 3.0) 0.1 -  2017_11_28 took 0,02s
+[INFO] 2019-12-18_14:59:57.546 Loading Config OpenKLEM - raster analisys (Geomatica) 1.0 (2019-02-24) took 0,01s
+[INFO] 2019-12-18_14:59:57.556 Loading Config Set Attribute Values Extension (Michaël Michaud) 0.7.0 (2015-06-13) took 0,01s
+[INFO] 2019-12-18_14:59:57.568 Loading Config SkyPrinterPlugin 1.0 took 0,01s
+[INFO] 2019-12-18_14:59:57.578 Loading Config Vertex Note (com.cadplan.jump)  took 0,01s
+[INFO] 2019-12-18_14:59:57.582 Loading Config Vertex Symbols (com.cadplan.jump) 0.181 (2018-01-28) took 0,00s
+[INFO] 2019-12-18_14:59:57.956 Loading Config View Manager Extension (Michaël Michaud) 0.3.4 (2016-10-24) took 0,37s
+[INFO] 2019-12-18_14:59:57.973 Loading Config Aggregation PlugIn (Michaël Michaud) 0.2.10 (2017-01-03) took 0,02s
+[INFO] 2019-12-18_14:59:57.975 Loading Config BeanShell Script Editor 0.2.4 (2012-01-17) took 0,00s
+[INFO] 2019-12-18_14:59:57.994 Loading Config CSV Driver 1.0.2 (2018-01-27) took 0,02s
+[INFO] 2019-12-18_14:59:57.999 Loading Config DXF driver 0.9.0 (2018-06-02) took 0,00s
+[INFO] 2019-12-18_14:59:58.028 Loading Config Graph Extension (Michaël Michaud) 0.6.1 (2018-06-17) took 0,03s
+[INFO] 2019-12-18_14:59:58.040 Loading Config Jump Db Query (org.freevoice.jumpdbqueryextension)  took 0,01s
+[WARN] 2019-12-18_14:59:58.042 No translation for key 'lat-long' in bundle 'com/isa/jump/plugin/language/jump'.
+[WARN] 2019-12-18_14:59:58.042 Can't find resource for bundle java.util.PropertyResourceBundle, key lat-long no default value, the resource key is used: lat-long
+[INFO] 2019-12-18_14:59:58.059 Loading Config KML Driver 0.2.5 (17.February.2019) took 0,02s
+[INFO] 2019-12-18_14:59:58.123 Loading Config Matching Extension (Michaël Michaud) 0.8.1 (2018-07-11) took 0,06s
+[INFO] 2019-12-18_14:59:58.124 Loading Config OSM Driver 1.0.1 (2013-08-03) took 0,00s
+[INFO] 2019-12-18_14:59:58.132 Loading Config Five Color (org.freevoice.mapcoloring)  took 0,01s
+[INFO] 2019-12-18_14:59:58.137 Sextante jar folder: /home/juan/my_git/openjump/lib/ext/sextante
+[INFO] 2019-12-18_14:59:58.645 Sextante jar folder: /home/juan/my_git/openjump/lib/ext/sextante
+[WARN] 2019-12-18_14:59:58.646 No translation for key 'es.unex.sextante.kosmo.extensions.SextanteToolboxPlugin.Help-files-placed-on-{0}' in bundle 'language/jump'.
+[WARN] 2019-12-18_14:59:58.646 Can't find resource for bundle java.util.PropertyResourceBundle, key es.unex.sextante.kosmo.extensions.SextanteToolboxPlugin.Help-files-placed-on-{0} no default value, the resource key is used: Help-files-placed-on-{0}
+[INFO] 2019-12-18_14:59:58.646 Help-files-placed-on-/home/juan/my_git/openjump/lib/ext/sextante/help
+[INFO] 2019-12-18_14:59:58.670 Loading Config Sextante 1.0 OpenJUMP binding 2016-12-06 took 0,54s
+[INFO] 2019-12-18_14:59:58.691 Loading Config Topology Extension (Michaël Michaud) 0.9.2 (2018-01-27) took 0,02s
+[INFO] 2019-12-18_14:59:58.691 Loading all OJ extensions took 1,47s
+[INFO] 2019-12-18_14:59:58.737 ECW/JP2 loader class com.ermapper.ecw.JNCSRenderer no instalado.
+[INFO] 2019-12-18_14:59:58.737 ECW/JP2 SDK loader will be unavailable.
+[INFO] 2019-12-18_14:59:58.751 mrsidgeodecode no instalado. - mrsidgeodecode not in path
+[INFO] 2019-12-18_14:59:58.871 OJ start took 2,61s alltogether.
+[INFO] 2019-12-18_15:02:49.408 Ejecutando Nuevo Proyecto
+[INFO] 2019-12-18_15:02:49.591 Activado Seleccionar elementos
+[INFO] 2019-12-18_15:02:49.592 Activado Seleccionar elementos
+[INFO] 2019-12-18_15:02:49.592 Activado Seleccionar elementos
+[INFO] 2019-12-18_15:02:49.593 Memoria utilizada:96 MB
+[INFO] 2019-12-18_15:02:57.549 Save state to ./workbench-state.xml
+[INFO] 2019-12-18_15:10:42.003 Restore state from /home/juan/my_git/openjump/./workbench-state.xml
+[INFO] 2019-12-18_15:10:42.412 Scanning lib/ext/CadTools-0.7.jar took 0,01s
+[INFO] 2019-12-18_15:10:42.414 Scanning lib/ext/ColorChooser-1.3.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.415 Scanning lib/ext/ConcaveHull-0.2.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.416 Scanning lib/ext/JumpChart-1.00.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.418 Scanning lib/ext/JumpFillPattern-0.3.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.419 Scanning lib/ext/JumpPrinter-1.88.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.421 Scanning lib/ext/MeasureToolbox_12.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.422 Scanning lib/ext/OnlineDoc-0.1.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.424 Scanning lib/ext/OpenKLEM-20190224.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.428 Scanning lib/ext/OpenKLEMOJ-20190224.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.429 Scanning lib/ext/PirolCsv.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.430 Scanning lib/ext/SetAttributes-0.7.1.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.431 Scanning lib/ext/SkyPrinterPlugIn-1.0.1.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.432 Scanning lib/ext/TableLayout-bin-jdk1.5-2007-04-21.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.434 Scanning lib/ext/VertexSymbols-0.19.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.435 Scanning lib/ext/ViewManager-0.3.4.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.437 Scanning lib/ext/aggregation-0.2.10.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.438 Scanning lib/ext/bsheditor4jump-0.2.4.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.442 Scanning lib/ext/csv-driver-1.0.2.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.443 Scanning lib/ext/driver-dxf-0.9.0.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.444 Scanning lib/ext/graph-toolbox-0.6.1.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.448 Scanning lib/ext/itext-2.1.7.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.449 Scanning lib/ext/jumpdbquery.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.461 Scanning lib/ext/kml-driver-0.2.5.jar took 0,01s
+[INFO] 2019-12-18_15:10:42.463 Scanning lib/ext/matching-0.8.1.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.465 Scanning lib/ext/oj_osm_reader_v1-0-4.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.466 Scanning lib/ext/ojmapcoloring-0.5.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.468 Scanning lib/ext/ojsextante_binding_apr2018c.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.468 Scanning lib/ext/pbaseClasses.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.470 Scanning lib/ext/topology-0.9.3.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.471 Scanning lib/ext/utils-0.1-20111127.jar took 0,00s
+[INFO] 2019-12-18_15:10:42.480 Scanning lib/ext/xbean-2.2.0.jar took 0,01s
+[INFO] 2019-12-18_15:10:42.481 Finding all OJ extensions took 0,08s
+[INFO] 2019-12-18_15:10:42.513 Loading Config Cad Tools (Giuseppe Aruta - a collection of tools adapted from Kosmo 3.0, SkyJUMP and new tools) 0.4 (2017-11-10) took 0,03s
+[INFO] 2019-12-18_15:10:42.523 Loading Config Feature Color Chooser PlugIn (Giuseppe Aruta - adapted from SkyJUMP sourceforge.net/projects/skyjump/) 1.2 (2018-12-27) took 0,01s
+[INFO] 2019-12-18_15:10:42.536 Loading Config Concave Hull Extension 0.2 (2014-11-25) took 0,01s
+[INFO] 2019-12-18_15:10:42.546 Loading Config Jump Chart (com.cadplan.jump)  took 0,01s
+[INFO] 2019-12-18_15:10:42.644 Loading Config Fill Pattern (com.cadplan.jump)  took 0,10s
+[WARN] 2019-12-18_15:10:42.776 No translation for key 'com.cadplan.jump.PrinterPlugIn' in bundle 'language/jump'.
+[WARN] 2019-12-18_15:10:42.776 Can't find resource for bundle java.util.PropertyResourceBundle, key com.cadplan.jump.PrinterPlugIn no default value, the resource key is used: PrinterPlugIn
+[INFO] 2019-12-18_15:10:42.777 Loading Config Printer (com.cadplan.jump) 1.88 (2018-01-28) took 0,13s
+[INFO] 2019-12-18_15:10:42.795 Loading Config Measure Extension for OpenJUMP(Giuseppe Aruta - http://sourceforge.net/projects/opensit/ - giuseppe_aruta@yahoo.it) 1.0 (2015-01-09) took 0,02s
+[INFO] 2019-12-18_15:10:42.807 Loading Config Open Help from web (Giuseppe Aruta - adapted from of Kosmo SAIG 3.0) 0.1 -  2017_11_28 took 0,01s
+[INFO] 2019-12-18_15:10:42.816 Loading Config OpenKLEM - raster analisys (Geomatica) 1.0 (2019-02-24) took 0,01s
+[INFO] 2019-12-18_15:10:42.823 Loading Config Set Attribute Values Extension (Michaël Michaud) 0.7.0 (2015-06-13) took 0,01s
+[INFO] 2019-12-18_15:10:42.833 Loading Config SkyPrinterPlugin 1.0 took 0,01s
+[INFO] 2019-12-18_15:10:42.842 Loading Config Vertex Note (com.cadplan.jump)  took 0,01s
+[INFO] 2019-12-18_15:10:42.846 Loading Config Vertex Symbols (com.cadplan.jump) 0.181 (2018-01-28) took 0,00s
+[INFO] 2019-12-18_15:10:43.224 Loading Config View Manager Extension (Michaël Michaud) 0.3.4 (2016-10-24) took 0,38s
+[INFO] 2019-12-18_15:10:43.241 Loading Config Aggregation PlugIn (Michaël Michaud) 0.2.10 (2017-01-03) took 0,02s
+[INFO] 2019-12-18_15:10:43.244 Loading Config BeanShell Script Editor 0.2.4 (2012-01-17) took 0,00s
+[INFO] 2019-12-18_15:10:43.263 Loading Config CSV Driver 1.0.2 (2018-01-27) took 0,02s
+[INFO] 2019-12-18_15:10:43.268 Loading Config DXF driver 0.9.0 (2018-06-02) took 0,00s
+[INFO] 2019-12-18_15:10:43.296 Loading Config Graph Extension (Michaël Michaud) 0.6.1 (2018-06-17) took 0,03s
+[INFO] 2019-12-18_15:10:43.309 Loading Config Jump Db Query (org.freevoice.jumpdbqueryextension)  took 0,01s
+[WARN] 2019-12-18_15:10:43.311 No translation for key 'lat-long' in bundle 'com/isa/jump/plugin/language/jump'.
+[WARN] 2019-12-18_15:10:43.311 Can't find resource for bundle java.util.PropertyResourceBundle, key lat-long no default value, the resource key is used: lat-long
+[INFO] 2019-12-18_15:10:43.327 Loading Config KML Driver 0.2.5 (17.February.2019) took 0,02s
+[INFO] 2019-12-18_15:10:43.386 Loading Config Matching Extension (Michaël Michaud) 0.8.1 (2018-07-11) took 0,06s
+[INFO] 2019-12-18_15:10:43.386 Loading Config OSM Driver 1.0.1 (2013-08-03) took 0,00s
+[INFO] 2019-12-18_15:10:43.393 Loading Config Five Color (org.freevoice.mapcoloring)  took 0,01s
+[INFO] 2019-12-18_15:10:43.397 Sextante jar folder: /home/juan/my_git/openjump/lib/ext/sextante
+[INFO] 2019-12-18_15:10:43.885 Sextante jar folder: /home/juan/my_git/openjump/lib/ext/sextante
+[WARN] 2019-12-18_15:10:43.885 No translation for key 'es.unex.sextante.kosmo.extensions.SextanteToolboxPlugin.Help-files-placed-on-{0}' in bundle 'language/jump'.
+[WARN] 2019-12-18_15:10:43.885 Can't find resource for bundle java.util.PropertyResourceBundle, key es.unex.sextante.kosmo.extensions.SextanteToolboxPlugin.Help-files-placed-on-{0} no default value, the resource key is used: Help-files-placed-on-{0}
+[INFO] 2019-12-18_15:10:43.885 Help-files-placed-on-/home/juan/my_git/openjump/lib/ext/sextante/help
+[INFO] 2019-12-18_15:10:43.912 Loading Config Sextante 1.0 OpenJUMP binding 2016-12-06 took 0,52s
+[INFO] 2019-12-18_15:10:43.935 Loading Config Topology Extension (Michaël Michaud) 0.9.2 (2018-01-27) took 0,02s
+[INFO] 2019-12-18_15:10:43.936 Loading all OJ extensions took 1,46s
+[INFO] 2019-12-18_15:10:43.982 ECW/JP2 loader class com.ermapper.ecw.JNCSRenderer no instalado.
+[INFO] 2019-12-18_15:10:43.982 ECW/JP2 SDK loader will be unavailable.
+[INFO] 2019-12-18_15:10:43.997 mrsidgeodecode no instalado. - mrsidgeodecode not in path
+[INFO] 2019-12-18_15:10:44.131 OJ start took 2,62s alltogether.
+[INFO] 2019-12-18_15:11:03.788 Ejecutando Nuevo Proyecto
+[INFO] 2019-12-18_15:11:03.969 Activado Seleccionar elementos
+[INFO] 2019-12-18_15:11:03.969 Activado Seleccionar elementos
+[INFO] 2019-12-18_15:11:03.970 Activado Seleccionar elementos
+[INFO] 2019-12-18_15:11:03.970 Memoria utilizada:96 MB
+[INFO] 2019-12-18_15:11:10.646 Activado Seleccionar elementos
+[INFO] 2019-12-18_15:11:12.882 Activado Seleccionar elementos
+[INFO] 2019-12-18_15:11:15.737 Save state to ./workbench-state.xml
