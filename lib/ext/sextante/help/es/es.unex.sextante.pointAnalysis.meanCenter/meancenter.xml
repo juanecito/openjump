@@ -23,4 +23,3 @@
 		<element name="RESULT" text="A layer with a circle radius equal to standard distance and centered in the geographic mean center. The attributes table contains a single field, with the standard deviation." description="Mean center and standard distance" type="2">
 		</element>
 	</help>
-<?xml version='1.0' encoding='ISO-8859-1' standalone='yes' ?>

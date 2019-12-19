@@ -21,4 +21,3 @@
 		<element name="DIST" text="The resulting layer containing the distance (modulus) of the vector obtained after converting X and Y values at the given cell to polar coordinates." description="Distance" type="2">
 		</element>
 	</help>
-<?xml version='1.0' encoding='ISO-8859-1' standalone='yes' ?>

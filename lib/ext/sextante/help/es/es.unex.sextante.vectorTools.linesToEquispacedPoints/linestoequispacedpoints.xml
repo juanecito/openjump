@@ -21,4 +21,3 @@
 		<element name="RESULT" text="The attributes table of this output layer contains the same fields as the one associated to the input layer. Each point is given the values of the line it belongs to" description="Points" type="2">
 		</element>
 	</help>
-<?xml version='1.0' encoding='ISO-8859-1' standalone='yes' ?>

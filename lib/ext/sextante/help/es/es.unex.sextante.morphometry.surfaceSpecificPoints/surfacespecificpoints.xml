@@ -21,4 +21,3 @@
 		<element name="RESULT" text="In the case of Peucker &amp; Douglas the values in each cell may be assigned from the following categories:&#10;*  9 = Peak (summit)&#10;* -9 = Pit&#10;*  0 = Plane&#10;*  1 = Pass&#10;*  2 = Convex break line&#10;* -2 = Concave break line&#10;*  7 = Ridge (crest)&#10;* -7 = Channel" description="Result" type="2">
 		</element>
 	</help>
-<?xml version='1.0' encoding='ISO-8859-1' standalone='yes' ?>

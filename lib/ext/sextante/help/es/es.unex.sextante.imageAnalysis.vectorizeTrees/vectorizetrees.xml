@@ -25,4 +25,3 @@
 		<element name="TREES" text="A points layer with points placed on the center of each detected tree center. The attributes table contains a radius value, which can be used to created a circular buffer representing the tree, and a shape coefficient, indicating how similar the shape of the cluster of pixel trees is to the shape of a circle." description="Trees" type="2">
 		</element>
 	</help>
-<?xml version='1.0' encoding='ISO-8859-1' standalone='yes' ?>

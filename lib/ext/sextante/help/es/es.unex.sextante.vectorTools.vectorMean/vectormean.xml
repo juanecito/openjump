@@ -19,4 +19,3 @@
 		<element name="RESULT" text="The vector layer with the directional mean vector. Its attributes table contains the following fields:&#10;* mean distance&#10;* angle (azimuth)&#10;* circular variance." description="Directional mean" type="2">
 		</element>
 	</help>
-<?xml version='1.0' encoding='ISO-8859-1' standalone='yes' ?>

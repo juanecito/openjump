@@ -27,4 +27,3 @@
 		<element name="RESULT" text="The visibility layer. The meaning of values in this layer depends on the selected method." description="Visibility" type="2">
 		</element>
 	</help>
-<?xml version='1.0' encoding='ISO-8859-1' standalone='yes' ?>

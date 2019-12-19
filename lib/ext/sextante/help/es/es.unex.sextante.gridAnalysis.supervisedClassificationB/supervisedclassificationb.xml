@@ -21,4 +21,3 @@
 		<element name="CLASSIFICATION" text="The resultign layer with values representing the class to which each pixel has been assigned." description="Classification" type="2">
 		</element>
 	</help>
-<?xml version='1.0' encoding='ISO-8859-1' standalone='yes' ?>

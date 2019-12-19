@@ -21,4 +21,3 @@
 		<element name="RESULT" text="The rasterized vector layer. It will have valid values (taken from the selected field from the input layer) in those cells that overlap with a feature in the input layer, and no-data values in the remaining cells." description="Result" type="2">
 		</element>
 	</help>
-<?xml version='1.0' encoding='ISO-8859-1' standalone='yes' ?>

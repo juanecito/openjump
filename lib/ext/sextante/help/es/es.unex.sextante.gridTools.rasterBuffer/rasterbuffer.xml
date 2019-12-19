@@ -23,4 +23,3 @@
 		<element name="BUFFER" text="The buffer layer, containing the following values&#10;* 0: cells outside of the buffer.&#10;* 1: original feature cells.&#10;* 2: buffer cells." description="Buffer" type="2">
 		</element>
 	</help>
-<?xml version='1.0' encoding='ISO-8859-1' standalone='yes' ?>

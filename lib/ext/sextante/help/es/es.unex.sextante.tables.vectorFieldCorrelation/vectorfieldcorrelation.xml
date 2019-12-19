@@ -25,4 +25,3 @@
 		<element name="REGRESSION_DATA" text="A text output with the expression of the adjusted curve and the resulting value of the R correlation coefficient" description="Regression values" type="2">
 		</element>
 	</help>
-<?xml version='1.0' encoding='ISO-8859-1' standalone='yes' ?>

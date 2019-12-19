@@ -21,4 +21,3 @@
 		<element name="SLOPELENGTH" text="The values in this layer represent the length of the longest flow path uphill of each cell. " description="Slope length" type="2">
 		</element>
 	</help>
-<?xml version='1.0' encoding='ISO-8859-1' standalone='yes' ?>

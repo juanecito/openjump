@@ -19,4 +19,3 @@
 		<element name="RESULT" text="The resulting value (W) of the normality test.&#10;&#10;If W is too small, the null hypothesis (the sample came for a normally distributed population) may be rejected." description="Result" type="2">
 		</element>
 	</help>
-<?xml version='1.0' encoding='ISO-8859-1' standalone='yes' ?>

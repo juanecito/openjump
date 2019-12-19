@@ -19,4 +19,3 @@
 		<element name="RESULT" text="The resulting layer. It is identical to the input layer, but it contains an additional field with the resulting value of applying the given formula using the values of each feature." description="Result" type="2">
 		</element>
 	</help>
-<?xml version='1.0' encoding='ISO-8859-1' standalone='yes' ?>

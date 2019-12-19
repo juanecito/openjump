@@ -19,4 +19,3 @@
 		<element name="RESULT" text="The resulting layer. Cells inside the upslope area have a value of 1, while cells outside of it have a value of 0" description="Upslope area" type="2">
 		</element>
 	</help>
-<?xml version='1.0' encoding='ISO-8859-1' standalone='yes' ?>

@@ -21,4 +21,3 @@
 		<element name="RESULT" text="The resulting layer containing all the features from all the input layers." description="Result" type="2">
 		</element>
 	</help>
-<?xml version='1.0' encoding='ISO-8859-1' standalone='yes' ?>

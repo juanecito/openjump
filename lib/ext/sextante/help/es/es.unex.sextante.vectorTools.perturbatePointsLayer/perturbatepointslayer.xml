@@ -21,4 +21,3 @@
 		<element name="RESULT" text="The resulting layer with displaced points. The attributes table is the same as the one from the input layer." description="Resultado" type="2">
 		</element>
 	</help>
-<?xml version='1.0' encoding='ISO-8859-1' standalone='yes' ?>

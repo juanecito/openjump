@@ -21,4 +21,3 @@
 		<element name="RESULTPROC6" text="A vector layer with polygons representing watersheds. Geometric properties such as area and perimeter are included in the associated attributes table" description="Watersheds" type="2">
 		</element>
 	</help>
-<?xml version='1.0' encoding='ISO-8859-1' standalone='yes' ?>
