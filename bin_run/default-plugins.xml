@@ -1841,6 +1841,10 @@
     </plug-in>
 
     <plug-in>
+        org.jmgomezl.OpenJumpPlugin
+    </plug-in>
+
+    <plug-in>
         org.openjump.core.ui.plugin.view.ViewOptionsPlugIn
     </plug-in>
 
